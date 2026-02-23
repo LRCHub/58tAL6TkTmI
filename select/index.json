@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "口笛で愛は歌えない",
+  "base_artist": "ダズビー",
+  "createdAt": "2026-02-23T04:59:05.644289Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "口笛で愛は歌えない",
+      "artist": "ダズビー",
+      "has_synced": true,
+      "path": "select/01_口笛で愛は歌えない_ダズビー.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "DAZBEE (ダズビー) | ‘口笛で愛は歌えない’ M/V",
+      "artist": "DAZBEE",
+      "has_synced": true,
+      "path": "select/02_DAZBEE_(ダズビー)___‘口笛で愛は歌えない’_M_V_DAZBEE.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "口笛で愛は歌えない",
+      "artist": "ダズビー",
+      "has_synced": false,
+      "path": "select/pl_01_口笛で愛は歌えない_ダズビー.txt"
+    }
+  ]
+}
